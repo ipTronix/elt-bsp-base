@@ -179,7 +179,7 @@ EOF
 fi
 
 cat <<EOF
-Welcome to Freescale Community BSP
+Welcome to Elt Community BSP
 
 The Yocto Project has extensive documentation about OE including a
 reference manual which can be found at:
